@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jvoya\\Documents\\NodeJSProjects\\Calc_Rut-NodejsCpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jvoya\\Documents\\NodeJSProjects\\Calc_Rut-NodejsCpp\\src\\rut_calculator.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\rut_calculator.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jvoya\\Documents\\NodeJSProjects\\Calc_Rut-NodejsCpp\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jvoya\\Documents\\NodeJSProjects\\Calc_Rut-NodejsCpp\\binding.gyp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:binding.gyp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\jvoya\\Documents\\NodeJSProjects\\Calc_Rut-NodejsCpp\\server.js",
+              "RelativeDocumentMoniker": "server.js",
+              "ToolTip": "C:\\Users\\jvoya\\Documents\\NodeJSProjects\\Calc_Rut-NodejsCpp\\server.js",
+              "RelativeToolTip": "server.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-05T00:22:48.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "binding.gyp",
+              "DocumentMoniker": "C:\\Users\\jvoya\\Documents\\NodeJSProjects\\Calc_Rut-NodejsCpp\\binding.gyp",
+              "RelativeDocumentMoniker": "binding.gyp",
+              "ToolTip": "C:\\Users\\jvoya\\Documents\\NodeJSProjects\\Calc_Rut-NodejsCpp\\binding.gyp",
+              "RelativeToolTip": "binding.gyp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-05T00:22:12.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rut_calculator.cpp",
+              "DocumentMoniker": "C:\\Users\\jvoya\\Documents\\NodeJSProjects\\Calc_Rut-NodejsCpp\\src\\rut_calculator.cpp",
+              "RelativeDocumentMoniker": "src\\rut_calculator.cpp",
+              "ToolTip": "C:\\Users\\jvoya\\Documents\\NodeJSProjects\\Calc_Rut-NodejsCpp\\src\\rut_calculator.cpp",
+              "RelativeToolTip": "src\\rut_calculator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T00:20:49.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
